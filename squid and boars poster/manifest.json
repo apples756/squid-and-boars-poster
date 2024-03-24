@@ -1,0 +1,9 @@
+{
+    "name": "Squid_and_Boars_posters",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/apples756/squid-and-boars-poster",
+    "description": "Replaces eight (8) various textures within the ship",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
